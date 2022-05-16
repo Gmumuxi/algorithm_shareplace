@@ -38,5 +38,4 @@
 
 ## 开源协议
 
-
-
+[MPL-2.0 License](./LICENSE) © [Gmumuxi](https://github.com/Gmumuxi/algorithm_shareplace)
